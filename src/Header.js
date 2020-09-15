@@ -44,12 +44,6 @@ function Header() {
                     <p>Account</p>
                 </div>
 
-
-
-
-
-
-
             </div>
             <img src="https://press.hulu.com/wp-content/uploads/2020/02/hulu-white.png"
                  alt=""/>
